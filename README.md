@@ -171,9 +171,9 @@ My work sits at the intersection of **analytics, business operations, and applie
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** *(add link)*  
+- **LinkedIn:** *https://www.linkedin.com/in/stellar-ty-904b1a390/*  
 - **Location:** Houston, TX  
-- **Open to:** Junior Data Scientist & Data Analyst roles (Remote / Hybrid)
+- **Open to:** Data Scientist & Data Analyst roles (Remote / Hybrid)
 
 ---
 
