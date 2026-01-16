@@ -13,27 +13,6 @@ I specialize in turning **operational and financial data** into **clear, decisio
 My work sits at the intersection of **analytics, business operations, and applied machine learning**, with a strong focus on data quality, interpretability, and real-world impact.
 ###
 
-
----
-
-## 🔍 What I Do
-
-- Build end-to-end analytics workflows (data → insight → decision)
-- Design KPI frameworks and executive dashboards
-- Perform statistical analysis, forecasting, and trend diagnostics
-- Apply machine learning **where it adds real value**, not just complexity
-- Emphasize data validation, governance, and reproducibility
-
----
-
-## 🧠 Core Focus Areas
-
-- **Data Analytics & BI:** KPI design, dashboards, operational reporting  
-- **Data Science:** Statistical modeling, forecasting, anomaly detection  
-- **Applied ML:** Regression, tree-based models, interpretable ML  
-- **Data Quality:** QA/QC checks, reconciliation, assumptions tracking  
-- **Business Communication:** Translating analysis into clear narratives  
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -105,6 +84,27 @@ My work sits at the intersection of **analytics, business operations, and applie
 
 
 </p>
+---
+
+## 🔍 What I Do
+
+- Build end-to-end analytics workflows (data → insight → decision)
+- Design KPI frameworks and executive dashboards
+- Perform statistical analysis, forecasting, and trend diagnostics
+- Apply machine learning **where it adds real value**, not just complexity
+- Emphasize data validation, governance, and reproducibility
+
+---
+
+## 🧠 Core Focus Areas
+
+- **Data Analytics & BI:** KPI design, dashboards, operational reporting  
+- **Data Science:** Statistical modeling, forecasting, anomaly detection  
+- **Applied ML:** Regression, tree-based models, interpretable ML  
+- **Data Quality:** QA/QC checks, reconciliation, assumptions tracking  
+- **Business Communication:** Translating analysis into clear narratives  
+
+
 
 
 ---
