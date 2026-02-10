@@ -6,7 +6,7 @@
 
 ###
 
-**Machine Learning Engineer | Data Scientist |AI Engineer (Energy, Power, Utilities, Oil & Gas, CCUS)**  
+**Machine Learning Engineer | Data Scientist | AI Engineer (Energy, Power, Utilities, Oil & Gas, CCUS)**  
 Houston, Texas 🇺🇸  
 
 I specialize in turning **operational and financial data** into **clear, decision-ready insights**.  
