@@ -7,7 +7,7 @@
 ###
 
 **Machine Learning Engineer | Data Scientist | AI Engineer (Energy, Power, Utilities, Oil & Gas, CCUS)**  
-Houston, Texas 🇺🇸  
+Houston, Texas US.  
 
 I specialize in turning **operational and financial data** into **clear, decision-ready insights**.  
 My work sits at the intersection of **analytics, business operations, and applied machine learning**, with a strong focus on data quality, interpretability, and real-world impact.
